@@ -1,0 +1,4 @@
+chain_venv/
+/Chain_of_responsibility/.ipynb_checkpoints/
+*.pyc
+.DS_Store
